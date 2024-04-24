@@ -8,8 +8,18 @@ import Signup from "./Signup";
 import Login from "./Login";
 import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard";
+import AuthLayout from "./AuthLayout";
+import AllPosts from "../pages/AllPosts";
+import AddPost from "../pages/AddPost";
+import EditPost from "../pages/EditPost";
+import Post from "../pages/Post";
 
 export {
+  Post,
+  EditPost,
+  AddPost,
+  AllPosts,
+  AuthLayout,
   Header,
   Footer,
   Container,
